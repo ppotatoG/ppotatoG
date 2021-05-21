@@ -1,14 +1,13 @@
 # I'm Sohyun  ͡~ ͜ʖ ͡° 
-
-![Sohyun's github stats](https://github-readme-stats.vercel.app/api?username=ppotatoG&theme=flag-india&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppotatoG&theme=vue)
 
 Languages and Tools (*•̀ᴗ•́*)و ̑̑ 
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> 
 
 Interested In Languages ٩(*•̀ᴗ•́*)و
