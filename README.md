@@ -17,6 +17,4 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 
-[감자의 성장일기](https://blog.naver.com/thgus2270) 
-
 [kamja’s growth diary](https://ppotatog.github.io/)
