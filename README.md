@@ -27,8 +27,6 @@
 
 <br/>
 
-[감자의 성장일기](https://blog.naver.com/thgus2270)
-
 [kamja’s growth diary](https://ppotatog.github.io/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
