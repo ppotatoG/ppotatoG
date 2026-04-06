@@ -1,33 +1,25 @@
-<div align=center>	
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=FF1493&center=false&vCenter=true&width=300&height=45&lines=✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧)](https://git.io/typing-svg)
 
-광고회사 웹디자이너, 스타트업 퍼블리셔로 시작해 
+웹디자이너의 감각과 엔진 개발자의 논리를 더해
 
-게임회사 풀스택 개발자로 근무 중인 **ppotatoG** 입니다
+복잡한 문제를 심플하게 풀어내는 sohyun 입니다 🥔
 
-좋은 코드를 위해 토론하고 고민하는 것을 좋아해요
+18MB의 무거운 데이터도 가볍게 만드는 최적화를 즐기고,
 
-오늘도 즐거운 하루 보내세요 **(๑•᎑<๑)ｰ☆**
+"어떻게 하면 더 다정하게 소통할까"를 매일 고민해요.
 
-<br/>
+좋은 코드를 위해 함께 머리를 맞대는 시간을 소중히 여깁니다.
+
+오늘도 반짝이는 하루 보내세요! ٩(◕ᗜ◕)و
+
+<br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<br/>
-
-[kamja’s growth diary](https://ppotatog.github.io/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=FF1493&center=false&vCenter=true&width=300&height=45&lines=✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧)](https://git.io/typing-svg)
