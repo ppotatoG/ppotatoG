@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=FF1493&center=false&vCenter=true&width=300&height=45&lines=✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧✦+˚+✧+˚+✦+˚+✧)](https://git.io/typing-svg)
 
-웹디자이너의 감각과 엔진 개발자의 논리를 더해
+웹디자이너의 감각과 개발자의 논리를 더해
 
 복잡한 문제를 심플하게 풀어내는 sohyun 입니다 🥔
 
